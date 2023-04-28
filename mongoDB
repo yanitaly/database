@@ -14,6 +14,7 @@ Comment below if you would like an extended version of this video.
 #4   00:15:40 data types
 #5   00:20:44 sorting and limiting
 #6   00:24:51 find
+       find({querry},{projection})
 #7   00:29:26 update
 #8   00:38:07 delete
 #9   00:41:26 comparison operators
