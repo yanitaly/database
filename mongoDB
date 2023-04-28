@@ -1,0 +1,22 @@
+This video will give you and introduction to MongoDB in 1 Hour.
+Afterwards I recommend exploring aggregation, replication, and sharding.
+Comment below if you would like an extended version of this video.
+
+⭐ TIME STAMPS ⭐
+#1  00:00:00 MongoDB tutorial for beginners
+       00:02:08 MongoDB installation 
+       00:03:56 MongoShell installation
+       00:04:32 Set Environment variable PATH
+       00:05:24 How to use Mongsh
+       00:06:02 VSCode w/ Mongosh
+#2   00:06:59 databases
+#3   00:09:43 insert
+#4   00:15:40 data types
+#5   00:20:44 sorting and limiting
+#6   00:24:51 find
+#7   00:29:26 update
+#8   00:38:07 delete
+#9   00:41:26 comparison operators
+#10 00:46:49 logical operators
+#11 00:52:00 indexes
+#12 00:56:15 collections
